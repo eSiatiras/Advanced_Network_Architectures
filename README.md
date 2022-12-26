@@ -1,3 +1,5 @@
 # Advanced_Network_Architectures
  
+ The course is refferring to the following areas: Fundamentals of IP routing (intra-AS, inter-AS routing, OSPF, BGP). Introduction to MPLS LDP protocol, MPLS-VPN applications, traffic engineering. GMPLS. Architectures of Metropolitan and Core Networks. Wavelength routing networks, elastic optical networks, architectures and layouts. The problem of routing and assigning wavelengths. IP over Optical, GMPLS, SONET, OTN layering network models. Access Network Architectures. Passive optical access networks. Architectures and technologies of convergence of wireless and optical access networks. Fundamentals of Data Center Networks. Implementation of MPLS network scenarios on the GNS3 open platform (unicast, VPN, Traffic engineering).
+ 
 The assignments where focused into testing our ability to collect the required information and to present it in a clear and well-structured manner.
